@@ -1,4 +1,6 @@
 *
 !.gitignore
 !kitty/
+!kitty/**
 !hypr/
+!hypr/**
